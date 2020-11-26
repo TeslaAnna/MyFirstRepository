@@ -1,0 +1,1 @@
+# Добавление изменений в файл awesome-feature в ветке master
